@@ -21,6 +21,9 @@ This is project's goal is to help Seth and Tom to submit the election audit resu
  - The largest County Turnout was Denver taking the 82.8% of the total with 306055 votes.
  - The second county turnout was Jefferson with 10.5% of the total with 38,855 votes.
  - The Last standing was Arapahoe with 6.7% of the total with 24,801 votes.
+
+![output](https://github.com/urvish7/Election_Analysis/blob/main/Election_Analysis.png)
+
  - On the different section the candidates were Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane.
  - The winner was Diana DeGette taking the 73.8% of the total with 272892 votes.
  - Charles Casper Stockham was the second runner up with 23% from the total with 85213 votes on the board.
